@@ -5,7 +5,7 @@ The goal of this repository is to share examples of misalignments between values
 
 You can go to the tab called "issue" to find all the misalignments identified. You can click on the issue you are interested in. You can also sort the issues according to the type of misalignment you want to check, the technical system observed or the context in which the misalignment was observed.
 
-You can also create an issue!
+Now it is time to create issues...
 
 ## Let's structure the misalignments into issues!
 
