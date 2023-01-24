@@ -44,4 +44,4 @@ You can comment a misalignment added by someone. If you have an example of misal
 * then put a comment to your new issue and mention the misalignement linked to it 
 
 
-If you are facing troubles to add your information on the platform, you can contact me through my email: l
+If you are facing troubles to add your information on the platform, you can contact me through my email: lou.grimal1@gmail.com
