@@ -33,7 +33,7 @@ If you are observing a misalignement:type3, then you can add:
 * Enabling effects
 * Structuring effects
 
-[Read more words!](https://github.com/LouGrimal/Misalignments-SHCI/blob/main/misAlignments.pdf?raw=true)
+[Representation of the misalignments](https://github.com/LouGrimal/Misalignments-SHCI/blob/main/misAlignments.pdf?raw=true)
 
 ### 2) Labels
 
