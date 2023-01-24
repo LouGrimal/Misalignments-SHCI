@@ -9,7 +9,7 @@ Now it is time to create issues...
 
 ## Let's structure the misalignments into issues!
 
-1) General structure
+### 1) General structure
 
 Here is the structure I advise you to follow to add an misalignment to the issue tab:
 
@@ -33,11 +33,17 @@ If you are observing a misalignement:type3, then you can add:
 * Enabling effects
 * Structuring effects
 
-2) Labels
+**The precise description of the misalignments will be available shortly.**
+
+### 2) Labels
 
 We also advise you to label your issue to allow users to find misalignments very quickly!
+There are 3 types of labels: 
+* The misalignement (type1, 2 or 3): MA:type1, MA:type or MA:type3
+* The technical system: system:nameofyoursystem
+* The context: context:nameofthecontext
 
-3) Collaboration
+### 3) Collaboration
 
 You can comment a misalignment added by someone. If you have an example of misalignement linked to an other one, here is the process to follow: 
 * you can open a new issue repository, describe the misalignement you have identified
