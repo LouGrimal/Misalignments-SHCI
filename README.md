@@ -1,9 +1,10 @@
 # Misalignments-SHCI
-The goal of this repository is to share examples of misalignments between values/actions of stakeholders using interactive systems and values embedded in those systems. Don't worry, you can use this platform even if you don't know how to program.
+
+The aim of this repository is to share examples of misalignments between the values/actions of stakeholders using interactive systems and the values embedded in those systems. Don't worry, you can use this platform even if you don't know how to code.
 
 ## New to this platform?
 
-You can go to the tab called "issue" to find all the misalignments identified. You can click on the issue you are interested in. You can also sort the issues according to the type of misalignment you want to check, the technical system observed or the context in which the misalignment was observed.
+You can go to the "Issue" tab to find all the identified misalignments. You can click on the problem you are interested in. You can also sort the issues according to the type of misalignment you want to check, the technical system observed or the context in which the misalignment was observed (see labels).
 
 Now it is time to create issues...
 
@@ -11,7 +12,7 @@ Now it is time to create issues...
 
 ### 1) General structure
 
-Here is the structure I advise you to follow to add an misalignment to the issue tab:
+Here is the structure I suggest you follow to add a misalignment to the "Issues" tab:
 
 * Context of identification
 * Technical system observed
@@ -37,17 +38,17 @@ If you are observing a misalignement:type3, then you can add:
 
 ### 2) Labels
 
-We also advise you to label your issue to allow users to find misalignments very quickly!
+We also recommend that you label your problem so that users can quickly find any misalignments!
+
 There are 3 types of labels: 
-* The misalignement (type1, 2 or 3): MA:type1, MA:type or MA:type3
+* The misalignment (type1, 2 or 3): MA:type1, MA:type or MA:type3
 * The technical system: system:nameofyoursystem
 * The context: context:nameofthecontext
 
 ### 3) Collaboration
 
-You can comment a misalignment added by someone. If you have an example of misalignement linked to an other one, here is the process to follow: 
-* you can open a new issue repository, describe the misalignement you have identified
-* then put a comment to your new issue and mention the misalignement linked to it 
+You can comment on a misalignment that someone else has added. If you have an example of a misalignment that is related to another misalignment, here is the process you should follow: 
+* Open a new issue in the issue repository, describe the misalignment you have identified.
+* Then add a comment to your new issue, mentioning the related misalignment.  
 
-
-If you are facing troubles to add your information on the platform, you can contact me through my email: lou.grimal1@gmail.com
+If you are having trouble adding your information to the platform, you can contact me through my email: lou.grimal1@gmail.com
